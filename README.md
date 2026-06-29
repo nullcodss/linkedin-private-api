@@ -1,5 +1,5 @@
 # linkedin-private-api
-Linkedin Private Api
+Linkedin Android Private Api
 
 Authentication, CSRF protection, cookie management, TLS fingerprint bypass, challenge handling, voyager/MUX <br>
 Verified social actions including reactions, comments, connections, follows, and polls <br>
